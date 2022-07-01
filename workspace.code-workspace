@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\proyectorestaurante"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CIVILC.SAS2"
+	}
+}
